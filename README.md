@@ -7,9 +7,9 @@ Goals:
   - Apply the perceptron algorithm in the data set mentioned before.
   
  Steps:
-    - Understand the theory (Perceprton algorithm, correlation coeficient and machine learning concepts).
-    - Understand the practical part (How is it apply).
-    - Understand how is it apply in Python and start coding the algorithm.
+  - Understand the theory (Perceprton algorithm, correlation coeficient and machine learning concepts).
+  - Understand the practical part (How is it apply).
+  - Understand how is it apply in Python and start coding the algorithm.
   
   
   
