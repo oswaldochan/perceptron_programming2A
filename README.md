@@ -9,6 +9,9 @@ Goals:
   - Understand the theory (Perceprton algorithm, correlation coeficient and machine learning concepts).
   - Understand the practical part (How is it apply).
   - Understand how is it apply in Python and start coding the algorithm.
-  
-  
+ 
+ Motivation(s):
+ - To understand the machine learning and neural network basics.
+ - To apply the some probability topics seen in class. 
+ - To learn how the databases can be applied for prediction algorithms.
   
