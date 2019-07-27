@@ -23,4 +23,26 @@ Objectives:
  - To learn how the databases can be applied for prediction algorithms.
   
 Description:
-- Our
+Our case is about the 2016 congressional votes between Republicans and Democrats. The dataset consists of 16 variables, these being the issues that Republicans or Democrats accept/reject. The dataset comprises two possible outcomes:
+in favor (represented by a "y"), and against (represented by an "n").
+Here, we show the different aspects to consider:
+1. Class Name: 2 (democrat, republican) <------ This is not considered as a variable per se.**
+2. handicapped-infants: 2 (y,n) 
+3. water-project-cost-sharing: 2 (y,n) 
+4. adoption-of-the-budget-resolution: 2 (y,n) 
+5. physician-fee-freeze: 2 (y,n) 
+6. el-salvador-aid: 2 (y,n) 
+7. religious-groups-in-schools: 2 (y,n) 
+8. anti-satellite-test-ban: 2 (y,n) 
+9. aid-to-nicaraguan-contras: 2 (y,n) 
+10. mx-missile: 2 (y,n) 
+11. immigration: 2 (y,n) 
+12. synfuels-corporation-cutback: 2 (y,n) 
+13. education-spending: 2 (y,n) 
+14. superfund-right-to-sue: 2 (y,n) 
+15. crime: 2 (y,n) 
+16. duty-free-exports: 2 (y,n) 
+17. export-administration-act-south-africa: 2 (y,n
+
+The team will proceed to choose the two most important variables in order to carry out the project (as mentioned in the objectives).
+
