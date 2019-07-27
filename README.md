@@ -22,3 +22,5 @@ Objectives:
  - To apply the some probability topics seen in class. 
  - To learn how the databases can be applied for prediction algorithms.
   
+Description:
+- Our
