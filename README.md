@@ -58,7 +58,7 @@ d2 decision: Nephritis of renal pelvis origin { yes, no }
 The team will proceed to choose the two most important variables in order to carry out the project (as mentioned in the objectives).
 
 
-**Perceptron Algorithm: a fast introduction before goes on
+## Perceptron Algorithm: a fast introduction before goes on
 
 In the words of Akshay Chandra Lagandula:
 
