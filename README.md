@@ -72,7 +72,7 @@ output: output = 0 || ouput = 1
 ```
 The ouput will be 1 only if the aggregated sum is more than some threshold, else, the output will be 0.
 
-If you want to know more about it, you can read this [paper]() made by us and we encouraging you to get into this topic if you want to get into the Mache Learning because these concepts are the base of this subject.
+If you want to know more about it, you can read this [paper](https://upy-my.sharepoint.com/personal/st1809131_upy_edu_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fst1809131%5Fupy%5Fedu%5Fmx%2FDocuments%2FPaper%5FPerceptron%5FFinal%2Epdf&parent=%2Fpersonal%2Fst1809131%5Fupy%5Fedu%5Fmx%2FDocuments&cid=796f9f6a-bfb3-475b-87b0-4081001aeafa) made by us and we encouraging you to get into this topic if you want to get into the Mache Learning because these concepts are the base of this subject.
 
 We recommend you to have a strong background in mathematics and python libraries (if it is the case) before goes on with your perceptron project. If you think you do not have it and you do not know where to start, you can study Statistics, Linear Algebra and Multivariable Calculus
 
